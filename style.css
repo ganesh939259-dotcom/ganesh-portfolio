@@ -382,48 +382,69 @@ header {
 }
 
 /* ==========================
+/* ==========================
    SKILLS SECTION
 ========================== */
 
 .skills {
+    padding: 100px 20px;
     text-align: center;
-    padding: 80px 20px;
 }
 
 .skills h2 {
     font-size: 42px;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
 }
 
 .skills-grid {
+    max-width: 1100px;
+    margin: 0 auto;
+
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 20px;
-    max-width: 900px;
-    margin: auto;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 30px;
 }
 
 .skill-card {
+
     background: #101b2d;
-    border: 1px solid #1d4ed8;
-    padding: 25px;
-    border-radius: 12px;
-    transition: 0.3s;
-}
 
-.skill-card i {
-    font-size: 40px;
-    color: #3399ff;
-    margin-bottom: 10px;
-}
+    border: 2px solid #2563eb;
 
-.skill-card h3 {
-    font-size: 18px;
+    border-radius: 15px;
+
+    padding: 35px 20px;
+
+    transition: .4s;
+
 }
 
 .skill-card:hover {
+
     transform: translateY(-8px);
-    box-shadow: 0 0 20px rgba(37, 99, 235, 0.4);
+
+    box-shadow: 0 0 20px rgba(37, 99, 235, .4);
+
+}
+
+.skill-card i {
+
+    font-size: 45px;
+
+    color: #3399ff;
+
+    margin-bottom: 18px;
+
+}
+
+.skill-card h3 {
+
+    font-size: 20px;
+
+    color: white;
+
+    margin: 0;
+
 }
 
 /* ==========================
