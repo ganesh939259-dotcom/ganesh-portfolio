@@ -1,128 +1,153 @@
-# 🚀 DevOps Portfolio - Nangili Ganesh
+# 💻 Python Developer Portfolio
 
-Welcome to my **DevOps & Cloud Engineer Portfolio Project** 👨‍💻
-
-This project showcases my skills in **AWS, Docker, Terraform, Jenkins, Linux, and CI/CD pipelines** with real-time deployment experience.
-
----
-
-## 🌐 Live Project
-
-👉 http://65.1.210.204/
-
----
+Welcome to my Python Developer Portfolio! This portfolio showcases my skills, projects, certifications, and technical expertise in Python development and backend technologies.
 
 ## 👨‍💻 About Me
 
-I am **Nangili Ganesh**, an aspiring DevOps Engineer passionate about:
+Hi, I'm **Nangili Ganesh**, a passionate **Python Developer** with a strong interest in backend development, REST APIs, and database-driven applications.
 
-- ☁️ Cloud Infrastructure (AWS)
-- 🐳 Containerization (Docker)
-- ⚙️ CI/CD Automation (Jenkins)
-- 📦 Infrastructure as Code (Terraform)
-- 🐧 Linux Administration
-- 🐍 Python & Shell Scripting
+I have hands-on experience with:
+
+- Python
+- SQL
+- Django
+- FastAPI
+- MySQL
+- Git & GitHub
+- Linux
+- AWS
+
+I am currently seeking an **entry-level Python Developer** or **Software Engineer** opportunity where I can apply my technical skills, contribute to innovative projects, and continue learning.
 
 ---
 
-## 📂 Project Overview
+## 🚀 Features
 
-This portfolio includes:
-
-- Responsive personal portfolio website
-- Deployed on AWS EC2 instance
-- Configured using Nginx web server
-- Integrated real DevOps projects
-- Resume download option
-- Contact section with email integration
+- Responsive Design
+- Modern User Interface
+- About Me Section
+- Skills Section
+- Featured Projects
+- Resume Download
+- Certifications
+- Contact Information
+- GitHub & LinkedIn Links
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (basic)
-- AWS EC2
-- Nginx
-- Git & GitHub
+### Programming Languages
+- Python
+- SQL
+
+### Frameworks
+- Django
+- FastAPI
+
+### Database
+- MySQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+### Cloud
+- AWS (EC2, S3, IAM)
+
+### Operating System
+- Linux
+- Windows
 
 ---
 
-## 🚀 DevOps Tools Used
+## 📂 Featured Projects
 
-- AWS EC2 (Hosting)
-- Nginx (Web Server)
-- Docker (Project deployment experience)
-- Terraform (Infrastructure automation)
-- Jenkins (CI/CD concept)
+### 🛒 Django E-Commerce Website
+A fully functional e-commerce application built using Django with authentication, product management, shopping cart, and admin dashboard.
 
----
-
-## 📌 Projects Included
-
-### 🛒 1. E-Commerce Deployment Project
-- Dockerized Django application
-- CI/CD using Jenkins
-- Deployed on AWS EC2 with Nginx
-
-🔗 GitHub:  
-https://github.com/ganesh939259-dotcom/E-Commerce-Website.git  
-
-🌐 Live:  
-http://65.1.210.204/
+### 🗄️ SQL Practice
+A collection of SQL queries demonstrating joins, subqueries, views, aggregate functions, and database operations.
 
 ---
 
-### ☁️ 2. Terraform AWS Infrastructure
-- Created AWS EC2, VPC, Subnets
-- Infrastructure as Code using Terraform
+## 📸 Portfolio Preview
 
-🔗 GitHub:  
-https://github.com/ganesh939259-dotcom/Terraform-Project.git  
+> Add a screenshot of your portfolio here.
 
-🌐 Live:  
-http://13.232.162.13
+Example:
+
+```
+images/portfolio-preview.png
+```
 
 ---
 
-## 📜 Training
+## 📁 Project Structure
 
-**Python Full Stack with DevOps**  
-PySpiders, Bangalore
+```
+Python-Portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+├── assets/
+├── resume/
+│   └── Nangili_Ganesh_Resume.pdf
+└── README.md
+```
 
-Learned:
-- AWS Cloud
-- Docker & Kubernetes basics
-- Jenkins CI/CD pipelines
-- Terraform Infrastructure
-- Linux & GitHub
+---
+
+## 📄 Resume
+
+Download my latest resume directly from the portfolio.
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: ganesh939259@gmail.com  
-- 📞 Phone: +91 9392599346  
-- 💼 LinkedIn: https://www.linkedin.com/in/nangili-ganesh-8b1a02262/  
-- 🐙 GitHub: https://github.com/ganesh939259-dotcom  
+**Name:** Nangili Ganesh
+
+📧 Email: ganesh939259@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/nangili-ganesh-8b1a02262/
+
+💻 GitHub:
+https://github.com/ganesh939259-dotcom
 
 ---
 
-## 🎯 Key Highlights
+## ⭐ Future Improvements
 
-✔ Real AWS deployment  
-✔ Live portfolio project  
-✔ DevOps tools experience  
-✔ CI/CD understanding  
-✔ Infrastructure automation  
-
----
-
-## ⭐ Goal
-
-To become a **DevOps Engineer** and work on scalable cloud infrastructure and automation systems.
+- Dark/Light Mode
+- Blog Section
+- Project Filtering
+- Contact Form Integration
+- Project Search
+- More Python Projects
 
 ---
 
-⭐ Thank you for visiting my project!
+## 🤝 Connect With Me
+
+If you're looking for a passionate Python Developer, feel free to connect with me.
+
+- GitHub
+- LinkedIn
+- Email
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+### ⭐ If you like this project, don't forget to give it a star on GitHub!
